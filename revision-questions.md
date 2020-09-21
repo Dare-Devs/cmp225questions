@@ -88,4 +88,4 @@
 	---
 	
 1. Distinguish between computer security and network security
-	> cyber security is the practice of protecting internet-connected systems and networks from digital attacks. Network security, on the other hand, is the act of protecting files and directories in a network of computers against misuse, hacking, and unauthorized access to the system.
+	> computer security is the practice of protecting internet-connected systems and networks from digital attacks. Network security, on the other hand, is the act of protecting files and directories in a network of computers against misuse, hacking, and unauthorized access to the system.
