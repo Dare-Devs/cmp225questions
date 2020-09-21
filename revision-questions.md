@@ -28,7 +28,7 @@
 	- Give two examples of network model
 	- Relate the two named models with aid of diagram
 	---
-	- Network model is a design or architecture to accomplish communication between differen systems
+	- Network model is a design or architecture to accomplish communication between different systems
 	-  examples:
 		- TCP/IP
 		- OSI
@@ -71,6 +71,8 @@
 	- Security issues
 	---
 1. AUL Technology Ltd is an ICT company with branches across the 36 states of Nigeria and the FCT. You are to be employed as the Chief Information Officer (CIO), how would you convince the Interview Panel that Switching should be better than the topologies being currently used?
+
+	---
 	- Switching can manage traffic either coming into or exiting the network by utilizing MAC address and can connect devices like computers and access points with ease increasing effeciency and security
 	---
 1. A certain University is known for granting a restricted access to the network by allocating to each student a free-weekly-data of 2MB. Each student is identified in the Access Control List (ACL) after the format: first.lastname@university.edu. You are required, therefore and from network security point of view, to:
