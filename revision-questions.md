@@ -49,13 +49,13 @@
 		- Transmission time is the time required for the router to push out the packet
 	-  CALCULATION->
 		- Propagation time:
-			>  propagation time =  distance/propagation speed
-			>  propagation time = 12000 x 1000/2.4x10^8
-			>  propagation time = 0.05s => 50ms
+			>  propagation time =  distance/propagation speed  
+			>  propagation time = 12000 x 1000/2.4x10^8  
+			>  propagation time = 0.05s => 50ms  
 		- Transmission time:
-			>  transmission time = document size / bandwidth
-			>  transmission time = 2.5x8000/10^9 
-			>  transmission time = 0.00002s = 0.02mbps
+			>  transmission time = document size / bandwidth  
+			>  transmission time = 2.5x8000/10^9  
+			>  transmission time = 0.00002s = 0.02mbps  
 	---
 1. - What is network topology
 	- Discuss four types of network topologies you know
