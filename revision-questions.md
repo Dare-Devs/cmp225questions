@@ -44,7 +44,7 @@
 		- Transmission time
 	--- 
 	-
-		- Bandwidth is the maximum rate of data transfer across a given path
+		- Bandwidth is the range of frequencies a channel can pass, measured in hertz. It is also the number of bits per second that a channel, link or network can transmit measured in mbps
 		- Propagation time is the time taken for a bit to propagate from one router to the next
 		- Transmission time is the time required for the router to push out the packet
 	-  CALCULATION->
