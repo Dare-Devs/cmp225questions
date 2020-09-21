@@ -64,9 +64,16 @@
 1. Discuss 5 critical factors you will consider while planning your network
 
 	---
-	- Performance: This is measured mainly with response time and transit time
-	- Relaiability: This is measured by the frequency of failure, the time it takes a link to recover from failure
-	- Network Security: This means protecting data from unauthorized access, damage and implementing procedures for recovery from breaches and data losses.
+	- Consider usage requirement 
+	- Gather input
+	- Plan for the future
+	- Decide who will mange the network
+	- Security issues
 	---
 1. AUL Technology Ltd is an ICT company with branches across the 36 states of Nigeria and the FCT. You are to be employed as the Chief Information Officer (CIO), how would you convince the Interview Panel that Switching should be better than the topologies being currently used?
 	- Switching can manage traffic either coming into or exiting the network by utilizing MAC address and can connect devices like computers and access points with ease increasing effeciency and security
+	---
+1. A certain University is known for granting a restricted access to the network by allocating to each student a free-weekly-data of 2MB. Each student is identified in the Access Control List (ACL) after the format: first.lastname@university.edu. You are required, therefore and from network security point of view, to:
+	- Identify and discuss associated issues regarding this convention.
+	- Discuss possible ways of managing student users (access wise) on the network
+	- create a simple algorithm to simply manage the student access
