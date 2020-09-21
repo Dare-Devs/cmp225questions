@@ -1,1 +1,1 @@
-[[revision-questions]]
+[revision-questions](./revision-questions)

@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "revision-questions.md",
+            "file": "Readme.md",
             "mode": "preview"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "revision-questions.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -76,6 +76,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Readme.md",
     "revision-questions.md",
     "Untitled.md"
   ]
