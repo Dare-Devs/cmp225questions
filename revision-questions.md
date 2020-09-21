@@ -79,7 +79,7 @@
 1. AUL Technology Ltd is an ICT company with branches across the 36 states of Nigeria and the FCT. You are to be employed as the Chief Information Officer (CIO), how would you convince the Interview Panel that Switching should be better than the topologies being currently used?
 
 	---
-	- Switching can manage traffic either coming into or exiting the network by utilizing MAC address and can connect devices like computers and access points with ease increasing effeciency and security
+	> Switching can manage traffic either coming into or exiting the network by utilizing MAC address and can connect devices like computers and access points with ease increasing effeciency and security
 	---
 1. A certain University is known for granting a restricted access to the network by allocating to each student a free-weekly-data of 2MB. Each student is identified in the Access Control List (ACL) after the format: first.lastname@university.edu. You are required, therefore and from network security point of view, to:
 	- Identify and discuss associated issues regarding this convention.
@@ -89,3 +89,6 @@
 	
 1. Distinguish between computer security and network security
 	> computer security is the practice of protecting internet-connected systems and networks from digital attacks. Network security, on the other hand, is the act of protecting files and directories in a network of computers against misuse, hacking, and unauthorized access to the system.
+
+## Useful Information
+> ![conversions](./assets/conversions.jpeg)
