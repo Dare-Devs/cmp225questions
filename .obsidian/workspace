@@ -1,0 +1,82 @@
+{
+  "main": {
+    "id": "fe44b4ae169ffde4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acaec9cc9fb9c13",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "revision-questions.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d4cc3f0de0941b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "35856a470c727c23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "845cae4fea23ae67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7a240aaeef4223d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 195
+  },
+  "right": {
+    "id": "2984730cb0a66de2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1090ced9213fd58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36428117e65c81cd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "revision-questions.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "revision-questions.md",
+    "Untitled.md"
+  ]
+}
